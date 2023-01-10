@@ -1,0 +1,5 @@
+{
+  "prettier.jsxSingleQuote": true,
+  "editor.tabCompletion": "on",
+  "diffEditor.codeLens": true
+}
